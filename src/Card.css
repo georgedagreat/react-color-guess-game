@@ -1,0 +1,9 @@
+.card-container {
+    cursor: pointer;
+    margin: 10px;
+    background: gray;
+    width: 140px;
+    height: 140px;
+    border-radius: 20%;
+  };
+  
